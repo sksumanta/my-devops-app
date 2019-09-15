@@ -6,7 +6,6 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-devops-app</artifactId>
-  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>my-devops-app</name>
